@@ -1,0 +1,5 @@
+D:\SPW3\FibonacciSeries\src\bin\FibonacciSeries.exe
+D:\SPW3\FibonacciSeries\src\bin\FibonacciSeries.pdb
+D:\SPW3\FibonacciSeries\src\obj\Release\FibonacciSeries.csprojResolveAssemblyReference.cache
+D:\SPW3\FibonacciSeries\src\obj\Release\FibonacciSeries.exe
+D:\SPW3\FibonacciSeries\src\obj\Release\FibonacciSeries.pdb
