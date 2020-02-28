@@ -7,7 +7,7 @@ namespace FibonacciSeries {
 	
   class Program {
     static void Main(string[] args) {
-	  int count = 10;
+	  int count = 100;
 	  
 	  if(args.Length ==1){
 		  int.TryParse(args[0], out count);
