@@ -3,3 +3,8 @@ D:\SPW3\FibonacciSeries\src\bin\FibonacciSeries.pdb
 D:\SPW3\FibonacciSeries\src\obj\Release\FibonacciSeries.csprojResolveAssemblyReference.cache
 D:\SPW3\FibonacciSeries\src\obj\Release\FibonacciSeries.exe
 D:\SPW3\FibonacciSeries\src\obj\Release\FibonacciSeries.pdb
+D:\FH\4.Semester\SPW\UE\UE02-Git\FibonacciSeries-1\src\bin\FibonacciSeries.exe
+D:\FH\4.Semester\SPW\UE\UE02-Git\FibonacciSeries-1\src\bin\FibonacciSeries.pdb
+D:\FH\4.Semester\SPW\UE\UE02-Git\FibonacciSeries-1\src\obj\Release\FibonacciSeries.csprojResolveAssemblyReference.cache
+D:\FH\4.Semester\SPW\UE\UE02-Git\FibonacciSeries-1\src\obj\Release\FibonacciSeries.exe
+D:\FH\4.Semester\SPW\UE\UE02-Git\FibonacciSeries-1\src\obj\Release\FibonacciSeries.pdb
